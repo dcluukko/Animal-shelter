@@ -1,0 +1,23 @@
+h1 {
+  background-color: aquamarine;
+}
+
+.column {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+img.resize {
+  height: 300px;
+  width: 450px;
+  border: 3px solid black;
+  border-radius: 20px;
+  margin: 0px auto;
+  display: block;
+}
+
+body {
+  text-align: center;
+}
